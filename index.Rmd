@@ -1,6 +1,6 @@
 ---
-title: "Dengue Data Hub:<br/> A Centralized Repository for Dengue-related Data"
-subtitle: ""  
+title: "Dengue Data Hub: "
+subtitle: "A Centralized Repository for Dengue-related Data"  
 author: 
   - "Thiyanga S. Talagala"
   - "University of Sri Jayewardenepura, Sri Lanka"
@@ -35,7 +35,7 @@ h1, #TOC>ul>li {
   font-weight: bold;
 }
 h2, #TOC>ul>ul>li {
-  color:  #006837;
+  color:  #3f007d;
   #font-family:  "Times";
   font-weight: bold;
 }
@@ -53,10 +53,84 @@ style_duo_accent(
   secondary_color = "#FF961C",
   inverse_header_color = "#FFFFFF",
   title_slide_background_color = "#051454",
-  title_slide_text_color = "#ff9124"
+  title_slide_text_color = "#f5ef4c"
 )
 ```
 
+<style type="text/css">
+.remark-slide-content {
+    font-size: 30px;
+    padding: 1em 4em 1em 4em;
+}
+</style>
 
-# What is Dengue?
+## What is Dengue?
+
+- Viral infection caused by the dengue virus (DENV), transmitted to humans through the bite of infected mosquitoes
+
+---
+## Prevalent in the tropical regions of the world
+
+---
+
+## About half of the world's population is now at risk of dengue 
+
+---
+
+# Small bite -Big threat!
+
+---
+
+# Small bite - Big threat!
+
+# Small data - Big impact!
+
+
+---
+
+## Outline
+
+- Why?
+
+- Where?
+
+- To whom?
+
+- What do we have?
+
+- How to use?
+
+---
+
+## Outline
+
+- **Why?**
+
+- Where?
+
+- To whom?
+
+- What do we have?
+
+- How to use?
+- How to collaborate?
+
+
+---
+
+## Data Analysis Workflow
+
+---
+
+## Dengue Data Hub
+
+---
+
+## To whom
+
+- Epidemiologists
+
+- Researchers
+
+- Educators
 
